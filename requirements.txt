@@ -2,3 +2,4 @@ ctransformers==0.2.14
 streamlit==1.25.0
 huggingface-hub==0.16.4
 sqlite3
+llama-cpp-python
