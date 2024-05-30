@@ -2,4 +2,10 @@ import os
 
 import streamlit as st
 
-model_path = "./../model_weights/"
+
+def main():
+    pass
+
+
+if __name__ == "__main__":
+    main()
